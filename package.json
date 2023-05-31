@@ -1,8 +1,8 @@
 {
-  "name": "pet-support-project",
+  "name": "project-nodejs_55-5_frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://heorgii.github.io/Pet_Support_Project/",
+  "homepage": "https://nilkad.github.io/project-nodejs_55-5_frontend/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.3",
