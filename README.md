@@ -18,4 +18,6 @@ Developer students (IT school **GoIT**).
 - [Roman Vikulov](https://github.com/RomanVikulov)
 - [Yaroslav Ostrovskiy](https://github.com/ReddenUA)
 
-##[API-DOCS](https://nilkad.github.io/project-nodejs_55-5_frontend/api-docs)
+## API DOCS
+
+[API-DOCS](https://nilkad.github.io/project-nodejs_55-5_frontend/api-docs)
