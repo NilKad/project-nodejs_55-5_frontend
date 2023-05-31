@@ -36,7 +36,7 @@
     "yup": "^1.0.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "cross-env GENERATE_SOURCEMAP=false react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -61,6 +61,7 @@
     ]
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "husky": "^4.3.8",
     "lint-staged": "^13.2.0",
     "prettier": "^2.8.4"
